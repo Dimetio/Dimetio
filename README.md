@@ -27,13 +27,13 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/ddubinin/badges/large)](https://www.codewars.com/users/ddubinin)
+![codewars](https://www.codewars.com/users/ddubinin/badges/large)
 
-[![Dimetio's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dimetio)](https://github.com/Dimetio/leetcode-stats)
+![Dimetio's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dimetio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimetio&layout=compact)](https://github.com/Dimetio/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimetio&layout=compact)
 
-[![Dimetio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimetio&theme=swift&show_icons=true)](https://github.com/Dimetio/github-readme-stats)
+![Dimetio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimetio&theme=swift&show_icons=true)
 
 
 ![](https://komarev.com/ghpvc/?username=Dimetio)
