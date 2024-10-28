@@ -30,15 +30,3 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
----
-
-![codewars](https://www.codewars.com/users/ddubinin/badges/large)
-
-![Dimetio's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Dimetio&theme=Light)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimetio&layout=compact)
-
-![Dimetio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimetio&theme=swift&show_icons=true)
-
-![](https://komarev.com/ghpvc/?username=Dimetio)
