@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
 ---
 
 ## Frameworks:
@@ -18,8 +19,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
 
+---
 
 ## Additional experience:
 
@@ -34,11 +35,10 @@
 
 ![codewars](https://www.codewars.com/users/ddubinin/badges/large)
 
-![Dimetio's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dimetio)
+![Dimetio's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Dimetio&theme=Light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimetio&layout=compact)
 
 ![Dimetio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimetio&theme=swift&show_icons=true)
-
 
 ![](https://komarev.com/ghpvc/?username=Dimetio)
